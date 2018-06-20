@@ -1,0 +1,9 @@
+# Compiled source
+####################
+
+#Dependancy Directories
+node_modules/
+
+
+#vi swap files
+*.swp
